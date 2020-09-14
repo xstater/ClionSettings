@@ -1,0 +1,2 @@
+# ClionSettings
+my clion settings
