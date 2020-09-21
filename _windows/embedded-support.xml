@@ -1,6 +1,6 @@
 <application>
   <component name="EmbeddedDevelopment">
     <option name="openOcdLocation" value="D:\OpenOCD\bin\openocd.exe" />
-    <option name="stm32CubeMXLocation" value="" />
+    <option name="stm32CubeMXLocation" value="D:\STM32CubeMX\STM32CubeMX.exe" />
   </component>
 </application>
