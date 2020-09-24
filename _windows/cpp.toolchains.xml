@@ -2,6 +2,7 @@
   <component name="CPPToolchains" version="4">
     <toolchains detectedVersion="5">
       <toolchain name="MinGW" toolSetKind="MINGW" toolSetPath="D:\mingw64" debuggerKind="CUSTOM_GDB" customGDBPath="D:\mingw64\bin\gdb.exe" />
+      <toolchain name="msp430" toolSetKind="MINGW" toolSetPath="D:\ti\gcc" customMakePath="D:\mingw64\bin\make.exe" customCCompilerPath="D:\ti\gcc\bin\msp430-elf-gcc.exe" customCXXCompilerPath="D:\ti\gcc\bin\msp430-elf-g++.exe" debuggerKind="CUSTOM_GDB" customGDBPath="D:\ti\gcc\bin\msp430-elf-gdb.exe" />
     </toolchains>
   </component>
 </application>
