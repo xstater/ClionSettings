@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="generate hex file" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="arm-none-eabi-objcopy" />
+      <option name="PARAMETERS" value="-O ihex $ModuleName$ $ModuleName$.hex" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/target/thumbv7em-none-eabihf/release" />
+    </exec>
+  </tool>
+</toolSet>
