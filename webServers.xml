@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7c3d11e2-7d9e-4428-b035-219de6ab3b17" name="Remote Host (7c3d11e2-7d9e-4428-b035-219de6ab3b17)" url="http:///">
+        <fileTransfer accessType="SFTP" host="xstater.tpddns.cn" port="23322" sshConfigId="33d4accb-a990-4561-9c2e-cd8da8355c45" sshConfig="xstater@xstater.tpddns.cn:23322 password" />
+      </webServer>
+    </option>
+  </component>
+</application>

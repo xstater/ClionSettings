@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="xstater.tpddns.cn" id="33d4accb-a990-4561-9c2e-cd8da8355c45" port="23322" nameFormat="DESCRIPTIVE" username="xstater" />
+    </configs>
+  </component>
+</application>
