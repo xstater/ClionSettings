@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="stm32test" type="PLAIN_TEXT" />
       <mapping ext="hex" type="PLAIN_TEXT" />
+      <mapping ext="elf" type="PLAIN_TEXT" />
       <mapping ext="x" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
