@@ -2,7 +2,7 @@
   <component name="CPPToolchains" version="4">
     <toolchains detectedVersion="5">
       <toolchain name="MinGW" toolSetKind="MINGW" toolSetPath="D:\mingw64" debuggerKind="CUSTOM_GDB" customGDBPath="D:\mingw64\bin\gdb.exe" />
-      <toolchain name="msp430gcc" toolSetKind="MINGW" toolSetPath="D:\mingw64" customCCompilerPath="D:\ti\gcc\bin\msp430-elf-gcc.exe" customCXXCompilerPath="D:\ti\gcc\bin\msp430-elf-g++.exe" debuggerKind="CUSTOM_GDB" customGDBPath="D:\mingw64\bin\gdb.exe" />
+      <toolchain name="msp430gcc" toolSetKind="MINGW" toolSetPath="D:\mingw64" customMakePath="D:\mingw64\bin\make.exe" customCCompilerPath="D:\ti\gcc\bin\msp430-elf-gcc.exe" customCXXCompilerPath="D:\ti\gcc\bin\msp430-elf-g++.exe" debuggerKind="CUSTOM_GDB" customGDBPath="D:\mingw64\bin\gdb.exe" />
       <toolchain name="Remote Host" toolSetKind="REMOTE" customCMakePath="cmake" hostId="7c3d11e2-7d9e-4428-b035-219de6ab3b17" debuggerKind="CUSTOM_GDB" customGDBPath="gdb" />
     </toolchains>
   </component>
